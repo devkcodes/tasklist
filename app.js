@@ -28,7 +28,7 @@ function loadListeners()
 
 function addTask(e){
     if(taskInput.value!=''){
-    alert('suck my dick haha');
+    alert('Please enter a task');
     }
 
     const li=document.createElement('li');
