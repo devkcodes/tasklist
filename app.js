@@ -28,7 +28,7 @@ function loadListeners()
 
 function addTask(e){
     if(taskInput.value!=''){
-    alert('yes u will get slapped for kissing ~ god ');
+    alert('please enter something ');
     }
 
     const li=document.createElement('li');
