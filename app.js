@@ -27,7 +27,7 @@ function loadListeners()
 //add task
 
 function addTask(e){
-    if(taskInput.value!=''){
+    if(taskInput.value==''){
     alert('please enter something ');
     }
 
